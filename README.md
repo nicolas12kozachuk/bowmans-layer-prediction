@@ -20,6 +20,8 @@ To classify corneal resonance frequencies and identify the 110–120 Hz resonanc
 - The **110–120 Hz peak** was identified as the key distinguishing feature for human corneas.
 - **VBGMM Accuracy**: 92.16% at 110 Hz.
 - **SVC Accuracy**: Decreased significantly when the 110 Hz peak was excluded, confirming its importance.
+  - **With 110 Hz Peak**: 95.32%.
+  - **Without 110 Hz Peak**: 67.85%.
 
 ## Key Findings
 
